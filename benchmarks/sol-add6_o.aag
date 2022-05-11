@@ -1,0 +1,36 @@
+aag 15 12 2 1 1
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26 1
+28 0
+30
+30 28 26
+i0 a<0>
+i1 a<1>
+i2 a<2>
+i3 a<3>
+i4 a<4>
+i5 a<5>
+i6 b<0>
+i7 b<1>
+i8 b<2>
+i9 b<3>
+i10 b<4>
+i11 b<5>
+l0 n39
+l1 err_out
+o0 err
+c
+benchmarks/sol-add6_o
+This file was written by ABC on Fri Dec 22 10:55:36 2017
+For information about AIGER format, refer to http://fmv.jku.at/aiger

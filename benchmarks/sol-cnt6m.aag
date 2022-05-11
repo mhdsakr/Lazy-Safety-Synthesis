@@ -1,0 +1,50 @@
+aag 35 1 7 1 27
+2
+4 1
+6 38
+8 44
+10 52
+12 60
+14 66
+16 70
+32
+18 6 4
+20 8 4
+22 20 18
+24 22 10
+26 14 4
+28 26 12
+30 28 24
+32 30 16
+34 18 3
+36 19 2
+38 37 35
+40 35 21
+42 34 20
+44 43 41
+46 10 4
+48 47 43
+50 42 10
+52 51 49
+54 12 4
+56 54 50
+58 55 51
+60 59 57
+62 57 27
+64 50 28
+66 65 63
+68 16 4
+70 68 65
+i0 stay
+l0 n7
+l1 counter<0>_out
+l2 counter<1>_out
+l3 counter<2>_out
+l4 counter<3>_out
+l5 counter<4>_out
+l6 counter<5>_out
+o0 err
+c
+benchmarks/sol-cnt6m
+This file was written by ABC on Fri Dec 22 10:55:37 2017
+For information about AIGER format, refer to http://fmv.jku.at/aiger
