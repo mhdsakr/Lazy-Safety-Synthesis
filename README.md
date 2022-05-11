@@ -10,6 +10,6 @@ Jacobs, S., Sakr, M.: A symbolic algorithm for lazy synthesis of eager strategie
 Acta Informatica 57 (1), 81-106.
 
 
-Sample command to run the tool:
+To run the tool:
 
-LazySafetySynt.py inoutfile.aag -o outputfile.aag
+LazySafetySynt.py -help
